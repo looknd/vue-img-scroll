@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div class="header">
-        vue-image-scroll<br>
-        <a href="https://github.com/ShanaMaid/vue-image-scroll" class="btn">View on GitHub</a>
+        vue-img-scroll<br>
+        <!-- <a href="https://github.com/ShanaMaid/vue-image-scroll" class="btn">View on GitHub</a> -->
     </div>
     
 

@@ -1,19 +1,13 @@
-# vue-image-scroll
-[![build](https://img.shields.io/wercker/ci/wercker/docs.svg)](https://github.com/ShanaMaid/vue-image-scroll) 
-[![build](https://img.shields.io/badge/npm-1.0.2-blue.svg)](https://github.com/ShanaMaid/vue-image-scroll) 
-[![build](https://img.shields.io/npm/l/express.svg)](https://github.com/ShanaMaid/vue-image-scroll)
+# vue-img-scroll
 
 一个模仿网易云音乐的vue图片滚动插件
 
-[Live Demos](http://blog.shanamaid.top/vue-image-scroll/example)
-
-[Documention](http://blog.shanamaid.top/vue-image-scroll/example)
 
 based on vue 2.0
 
 ## Install
 ```
-npm install vue-image-scroll 
+npm install vue-img-scroll 
 ```
 
 ### Local
@@ -72,14 +66,3 @@ export default {
 |imgStyle   | Object  | null    | image style, the same as `styleObject`  |
 |autoRoll   | Boolean | true    |  `true` or `false` |
 |direction  | String  | left    | scroll direction, `left` or `right` |
-
-
-## To do
-- [x] Basics
-- [x] add tag for image
-
-more!!
-
-## License
-
-[MIT](https://github.com/ShanaMaid/vue-image-scroll/blob/master/LICENSE)

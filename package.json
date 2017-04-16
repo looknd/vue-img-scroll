@@ -1,5 +1,5 @@
 {
-  "name": "vue-image-scroll",
+  "name": "vue-img-scroll",
   "version": "1.0.2",
   "description": "A Vue components about image scroll from 163-music",
   "author": "ShanaMaid <uestczeng@gmail.com>",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShanaMaid/vue-image-scroll"
+    "url": "https://github.com/ShanaMaid/vue-img-scroll"
   },
   "dependencies": {
     "babel-cli": "^6.23.0",
